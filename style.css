@@ -1,0 +1,44 @@
+body {
+	background-color: #cccccc;
+}
+
+h1 {
+	color: #0000ff;
+	margin-left: 15px;
+}
+
+td {
+	border: 1px dashed #0000ff;
+	padding: 35px 17px;
+	background-color: white;
+}
+
+h4 {
+	vertical-align: top;
+	margin-top: 0;
+}
+
+tr {
+	vertical-align: top;
+}
+
+.td1 {
+	width:28%;
+}
+
+.td2 {
+	width:50%;
+}
+
+.td3 {
+	width:22%;
+}
+
+
+.center {
+	text-align: center;
+}
+
+.td1 p {
+	margin-top: 0;
+}
